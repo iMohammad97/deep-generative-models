@@ -1,0 +1,3 @@
+Notebook link on Colab with plots and results so that you can easily check or modify and play with the code (Available publicly): 
+
+https://colab.research.google.com/drive/1vN4kFmfjFr-4Mxt3dYQ9mCQ6LLtpeptP?usp=sharing
